@@ -1,4 +1,4 @@
-**The code provided performs classification on a dataset using a decision tree algorithm. Here is a step-by-step explanation of the code:**
+# **The code provided performs classification on a dataset using a decision tree algorithm. Here is a step-by-step explanation of the code:**
 
 **Libraries:**
 
